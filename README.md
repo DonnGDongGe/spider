@@ -1,2 +1,8 @@
-# spider
-spider project
+## 一线城市的房租在工资中的占比分析
+
+需安装库：**scrapy、requests、tqdm、pymysql**
+
+数据存储用到 MySQL 数据库，可视化部分采用了 FineReport 软件完成
+
+说明：本案例从网上公开信息中获取了不同城市的租房价格和工资水平，对数据进行整理之后，对比分析了不同条件下房租占工资的比重。
+
